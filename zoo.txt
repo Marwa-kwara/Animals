@@ -2,3 +2,5 @@ Zoo animals :
 1. Lions
 2. Monkeys
 3. Pandas
+4. Giraffes
+5. Tigers
